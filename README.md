@@ -1,2 +1,2 @@
 # component-repository
-写点组件库
+写点组件
